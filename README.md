@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nachiketa NR</h1>
+<h1 align="center">𝘽𝙤𝙣𝙟𝙤𝙪𝙧 👋, 𝙄'𝙢 𝙉𝙖𝙘𝙝𝙞𝙠𝙚𝙩𝙖 𝙉𝙍</h1>
+
 <h3 align="center">Turns coffee into JSON, commits into 🚀, and bugs into test cases. Clean architecture enthusiast, type‑safe APIs fan, and pixel‑perfect UI tinkerer. MERN at heart: 🍃 MongoDB • 🧩 Express • ⚛️ React • 🟢 Node</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nachi12&label=Profile%20views&color=0e75b6&style=flat" alt="nachi12" /> </p>
