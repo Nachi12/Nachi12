@@ -8,15 +8,6 @@ from database schema design to live deployment.
 
 ---
 
-## 🔥 Currently Building
-
-| Project | What it is | Status |
-|---|---|---|
-| **AgentDesk** | AI agent orchestration platform — Docker containers, PostgreSQL, MongoDB, WebSockets | 🚧 In Progress |
-| **ProductivityOS** | Personal finance SaaS — bank statement parsing, analytics, family-level data isolation | 🚧 In Progress |
-
----
-
 ## 🚀 Projects
 
 ### 💼 HireLog — Job Application Tracker SaaS
